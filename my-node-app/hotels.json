@@ -1,0 +1,6717 @@
+[
+  {
+    "supplierHotelId": "IND001",
+    "hotelName": "Hotel Nest ",
+    "brand": "Meevee",
+    "category": 4,
+    "starRating": 4.8,
+    "latitude": 22.111478,
+    "longitude": 81.683933,
+    "address": "141 Random Street",
+    "cityName": "Pune",
+    "stateCode": "MH",
+    "zipCode": "814590",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Pune",
+      "gallery": [],
+      "title": "Entire rental unit in Pune, India",
+      "subtitle": "3 guests 2 bedroom 2 bed 1 bathroom"
+    },
+
+    "pricePerNight": 2846.1,
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "7116 for 1 night"
+  },
+  {
+    "supplierHotelId": "IND002",
+    "hotelName": "Hotel Oasis ",
+    "brand": "Tripozo",
+    "category": 4,
+    "starRating": 4.7,
+    "latitude": 26.958133,
+    "longitude": 79.225366,
+    "address": "462 Random Street",
+    "cityName": "Pune",
+    "stateCode": "MH",
+    "zipCode": "471790",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Pune",
+      "gallery": [],
+      "title": "Entire rental unit in Pune, India",
+      "subtitle": "1 guests 2 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+    
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "9041 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND003",
+    "hotelName": "The Poona Residency",
+    "brand": "BookInn",
+    "category": 4,
+    "starRating": 4.4,
+    "latitude": 20.797441,
+    "longitude": 76.923998,
+    "address": "619 Random Street",
+    "cityName": "Pune",
+    "stateCode": "MH",
+    "zipCode": "884244",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Pune",
+      "gallery": [],
+      "title": "Entire rental unit in Pune, India",
+      "subtitle": "1 guests 1 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "9533 for 1 night"
+  },
+  {
+    "supplierHotelId": "IND004",
+    "hotelName": "Hotel Retreat Pune",
+    "brand": "Roomie",
+    "category": 3,
+    "starRating": 4.3,
+    "latitude": 22.282736,
+    "longitude": 78.291925,
+    "address": "827 Random Street",
+    "cityName": "Pune",
+    "stateCode": "MH",
+    "zipCode": "812393",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Pune",
+      "gallery": [],
+      "title": "Entire rental unit in Pune, India",
+      "subtitle": "4 guests 2 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "4869 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND005",
+    "hotelName": "Hotel Oasis Pune",
+    "brand": "Staynest",
+    "category": 3,
+    "starRating": 3.8,
+    "latitude": 18.256731,
+    "longitude": 78.998449,
+    "address": "368 Random Street",
+    "cityName": "Pune",
+    "stateCode": "MH",
+    "zipCode": "185133",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/4.jpg",
+    "details": {
+      "headline": "Relaxing stay in Pune",
+      "gallery": [],
+      "title": "Entire rental unit in Pune, India",
+      "subtitle": "1 guests 1 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "6996 for 1 night"
+  },
+  {
+    "supplierHotelId": "IND006",
+    "hotelName": "Hotel Nest Pune",
+    "brand": "Staynest",
+    "category": 5,
+    "starRating": 4.7,
+    "latitude": 21.953629,
+    "longitude": 82.260434,
+    "address": "124 Random Street",
+    "cityName": "Pune",
+    "stateCode": "MH",
+    "zipCode": "126462",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/5.jpg",
+    "details": {
+      "headline": "Relaxing stay in Pune",
+      "gallery": [],
+      "title": "Entire rental unit in Pune, India",
+      "subtitle": "1 guests 2 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "3140 for 1 night"
+  },
+  {
+    "supplierHotelId": "IND007",
+    "hotelName": "Hotel Nest Pune",
+    "brand": "YatraHomes",
+    "category": 5,
+    "starRating": 4.5,
+    "latitude": 21.802272,
+    "longitude": 76.037956,
+    "address": "532 Random Street",
+    "cityName": "Pune",
+    "stateCode": "MH",
+    "zipCode": "943264",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/6.jpg",
+    "details": {
+      "headline": "Relaxing stay in Pune",
+      "gallery": [],
+      "title": "Entire rental unit in Pune, India",
+      "subtitle": "4 guests 2 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "9667 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND008",
+    "hotelName": "Hotel Haven Pune",
+    "brand": "Roomie",
+    "category": 5,
+    "starRating": 4.0,
+    "latitude": 29.190239,
+    "longitude": 75.893334,
+    "address": "72 Random Street",
+    "cityName": "Pune",
+    "stateCode": "MH",
+    "zipCode": "626302",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/7.jpg",
+    "details": {
+      "headline": "Relaxing stay in Pune",
+      "gallery": [],
+      "title": "Entire rental unit in Pune, India",
+      "subtitle": "3 guests 1 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "7031 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND009",
+    "hotelName": "Hotel Retreat Pune",
+    "brand": "Staynest",
+    "category": 4,
+    "starRating": 3.9,
+    "latitude": 23.235129,
+    "longitude": 77.047669,
+    "address": "55 Random Street",
+    "cityName": "Pune",
+    "stateCode": "MH",
+    "zipCode": "331740",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/8.jpg",
+    "details": {
+      "headline": "Relaxing stay in Pune",
+      "gallery": [],
+      "title": "Entire rental unit in Pune, India",
+      "subtitle": "2 guests 2 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "8625 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND010",
+    "hotelName": "Hotel Retreat Pune",
+    "brand": "TreeNest",
+    "category": 5,
+    "starRating": 4.5,
+    "latitude": 29.679071,
+    "longitude": 75.061948,
+    "address": "251 Random Street",
+    "cityName": "Pune",
+    "stateCode": "MH",
+    "zipCode": "584678",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/9.jpg",
+    "details": {
+      "headline": "Relaxing stay in Pune",
+      "gallery": [],
+      "title": "Entire rental unit in Pune, India",
+      "subtitle": "4 guests 2 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "3268 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND011",
+    "hotelName": "Serenity Suites ",
+    "brand": "BookInn",
+    "category": 4,
+    "starRating": 5.0,
+    "latitude": 26.195209,
+    "longitude": 72.028113,
+    "address": "452 Random Street",
+    "cityName": "Goa",
+    "stateCode": "GA",
+    "zipCode": "865447",
+    "countryCode": "IN",
+    "image": "",
+    "details": {
+      "headline": "Relaxing stay in Goa",
+      "gallery": [],
+      "title": "Entire rental unit in Goa, India",
+      "subtitle": "4 guests 1 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "7051 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND012",
+    "hotelName": "Blue Lotus Inn",
+    "brand": "Skyo",
+    "category": 5,
+    "starRating": 4.6,
+    "latitude": 20.577743,
+    "longitude": 85.992698,
+    "address": "494 Random Street",
+    "cityName": "Goa",
+    "stateCode": "GA",
+    "zipCode": "295708",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Goa",
+      "gallery": [],
+      "title": "Entire rental unit in Goa, India",
+      "subtitle": "2 guests 1 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "3339 for 1 night"
+  },
+  {
+    "supplierHotelId": "IND013",
+    "hotelName": "The Deccan Crest",
+    "brand": "StayBay",
+    "category": 5,
+    "starRating": 4.9,
+    "latitude": 22.459813,
+    "longitude": 82.173269,
+    "address": "511 Random Street",
+    "cityName": "Goa",
+    "stateCode": "GA",
+    "zipCode": "501546",
+    "countryCode": "IN",
+   "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Goa",
+      "gallery": [],
+      "title": "Entire rental unit in Goa, India",
+      "subtitle": "2 guests 2 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "7350 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND014",
+    "hotelName": "Marigold Horizon",
+    "brand": "TreeNest",
+    "category": 4,
+    "starRating": 4.7,
+    "latitude": 24.836856,
+    "longitude": 80.819144,
+    "address": "598 Random Street",
+    "cityName": "Goa",
+    "stateCode": "GA",
+    "zipCode": "292788",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Goa",
+      "gallery": [],
+      "title": "Entire rental unit in Goa, India",
+      "subtitle": "3 guests 1 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "6212 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND015",
+    "hotelName": "Hotel Nest Goa",
+    "brand": "TreeNest",
+    "category": 3,
+    "starRating": 4.5,
+    "latitude": 25.952374,
+    "longitude": 86.103997,
+    "address": "711 Random Street",
+    "cityName": "Goa",
+    "stateCode": "GA",
+    "zipCode": "608037",
+    "countryCode": "IN",
+   "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Goa",
+      "gallery": [],
+      "title": "Entire rental unit in Goa, India",
+      "subtitle": "3 guests 2 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b99175 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND016",
+    "hotelName": "Hotel Vista Goa",
+    "brand": "StayEZ",
+    "category": 3,
+    "starRating": 4.8,
+    "latitude": 29.742911,
+    "longitude": 87.843127,
+    "address": "166 Random Street",
+    "cityName": "Goa",
+    "stateCode": "GA",
+    "zipCode": "240636",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/5.jpg",
+    "details": {
+      "headline": "Relaxing stay in Goa",
+      "gallery": [],
+      "title": "Entire rental unit in Goa, India",
+      "subtitle": "3 guests 2 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b95789 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND017",
+    "hotelName": "Hotel Nest Goa",
+    "brand": "YatraHomes",
+    "category": 3,
+    "starRating": 4.8,
+    "latitude": 19.915518,
+    "longitude": 80.069934,
+    "address": "29 Random Street",
+    "cityName": "Goa",
+    "stateCode": "GA",
+    "zipCode": "151353",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/6.jpg",
+    "details": {
+      "headline": "Relaxing stay in Goa",
+      "gallery": [],
+      "title": "Entire rental unit in Goa, India",
+      "subtitle": "1 guests 2 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b98343 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND018",
+    "hotelName": "Hotel Haven Goa",
+    "brand": "Skyo",
+    "category": 3,
+    "starRating": 4.0,
+    "latitude": 26.64141,
+    "longitude": 83.377354,
+    "address": "165 Random Street",
+    "cityName": "Goa",
+    "stateCode": "GA",
+    "zipCode": "909493",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/7.jpg",
+    "details": {
+      "headline": "Relaxing stay in Goa",
+      "gallery": [],
+      "title": "Entire rental unit in Goa, India",
+      "subtitle": "3 guests 2 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b96587 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND019",
+    "hotelName": "Hotel Vista Goa",
+    "brand": "Skyo",
+    "category": 5,
+    "starRating": 4.7,
+    "latitude": 20.549159,
+    "longitude": 86.983133,
+    "address": "304 Random Street",
+    "cityName": "Goa",
+    "stateCode": "GA",
+    "zipCode": "430364",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/8.jpg",
+    "details": {
+      "headline": "Relaxing stay in Goa",
+      "gallery": [],
+      "title": "Entire rental unit in Goa, India",
+      "subtitle": "2 guests 2 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b93734 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND020",
+    "hotelName": "Hotel Haven Goa",
+    "brand": "Roomie",
+    "category": 3,
+    "starRating": 4.0,
+    "latitude": 19.806085,
+    "longitude": 81.519413,
+    "address": "461 Random Street",
+    "cityName": "Goa",
+    "stateCode": "GA",
+    "zipCode": "851990",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/9.jpg",
+    "details": {
+      "headline": "Relaxing stay in Goa",
+      "gallery": [],
+      "title": "Entire rental unit in Goa, India",
+      "subtitle": "4 guests 2 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b99154 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND021",
+    "hotelName": "Bayview Residency",
+    "brand": "StayBay",
+    "category": 5,
+    "starRating": 4.8,
+    "latitude": 25.699537,
+    "longitude": 78.883455,
+    "address": "244 Random Street",
+    "cityName": "Mumbai",
+    "stateCode": "MH",
+    "zipCode": "107967",
+    "countryCode": "IN",
+    "image": "",
+    "details": {
+      "headline": "Relaxing stay in Mumbai",
+      "gallery": [],
+      "title": "Entire rental unit in Mumbai, India",
+      "subtitle": "3 guests 1 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "9544 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND022",
+    "hotelName": "The Colaba Crown",
+    "brand": "StayBay",
+    "category": 3,
+    "starRating": 4.6,
+    "latitude": 24.809252,
+    "longitude": 85.332518,
+    "address": "221 Random Street",
+    "cityName": "Mumbai",
+    "stateCode": "MH",
+    "zipCode": "338994",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Mumbai",
+      "gallery": [],
+      "title": "Entire rental unit in Mumbai, India",
+      "subtitle": "1 guests 1 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "5424 for 1 night"
+  },
+  {
+    "supplierHotelId": "IND023",
+    "hotelName": "The SoBo Stay",
+    "brand": "Tripozo",
+    "category": 5,
+    "starRating": 4.8,
+    "latitude": 19.936125,
+    "longitude": 86.256002,
+    "address": "964 Random Street",
+    "cityName": "Mumbai",
+    "stateCode": "MH",
+    "zipCode": "649214",
+    "countryCode": "IN",
+   "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Mumbai",
+      "gallery": [],
+      "title": "Entire rental unit in Mumbai, India",
+      "subtitle": "2 guests 2 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "8449 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND024",
+    "hotelName": "Marine Drive Palace",
+    "brand": "Meevee",
+    "category": 5,
+    "starRating": 4.6,
+    "latitude": 20.544608,
+    "longitude": 74.178779,
+    "address": "764 Random Street",
+    "cityName": "Mumbai",
+    "stateCode": "MH",
+    "zipCode": "898089",
+    "countryCode": "IN",
+   "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Mumbai",
+      "gallery": [],
+      "title": "Entire rental unit in Mumbai, India",
+      "subtitle": "4 guests 1 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "8372 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND025",
+    "hotelName": "Hotel Vista Mumbai",
+    "brand": "StayBay",
+    "category": 3,
+    "starRating": 3.6,
+    "latitude": 21.579788,
+    "longitude": 83.280235,
+    "address": "306 Random Street",
+    "cityName": "Mumbai",
+    "stateCode": "MH",
+    "zipCode": "394646",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Mumbai",
+      "gallery": [],
+      "title": "Entire rental unit in Mumbai, India",
+      "subtitle": "2 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b95966 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND026",
+    "hotelName": "Hotel Oasis Mumbai",
+    "brand": "StayEZ",
+    "category": 4,
+    "starRating": 4.6,
+    "latitude": 22.359166,
+    "longitude": 77.893684,
+    "address": "874 Random Street",
+    "cityName": "Mumbai",
+    "stateCode": "MH",
+    "zipCode": "772915",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Mumbai",
+      "gallery": [],
+      "title": "Entire rental unit in Mumbai, India",
+      "subtitle": "1 guests 1 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b98570 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND027",
+    "hotelName": "Hotel Retreat Mumbai",
+    "brand": "Roomie",
+    "category": 5,
+    "starRating": 4.8,
+    "latitude": 20.969253,
+    "longitude": 86.113847,
+    "address": "585 Random Street",
+    "cityName": "Mumbai",
+    "stateCode": "MH",
+    "zipCode": "164651",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/6.jpg",
+    "details": {
+      "headline": "Relaxing stay in Mumbai",
+      "gallery": [],
+      "title": "Entire rental unit in Mumbai, India",
+      "subtitle": "4 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b93526 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND028",
+    "hotelName": "Hotel Oasis Mumbai",
+    "brand": "TreeNest",
+    "category": 3,
+    "starRating": 4.5,
+    "latitude": 19.645622,
+    "longitude": 73.338577,
+    "address": "483 Random Street",
+    "cityName": "Mumbai",
+    "stateCode": "MH",
+    "zipCode": "528515",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/7.jpg",
+    "details": {
+      "headline": "Relaxing stay in Mumbai",
+      "gallery": [],
+      "title": "Entire rental unit in Mumbai, India",
+      "subtitle": "3 guests 2 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b94665 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND029",
+    "hotelName": "Hotel Retreat Mumbai",
+    "brand": "Skyo",
+    "category": 4,
+    "starRating": 3.7,
+    "latitude": 28.093539,
+    "longitude": 75.974159,
+    "address": "65 Random Street",
+    "cityName": "Mumbai",
+    "stateCode": "MH",
+    "zipCode": "844948",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/8.jpg",
+    "details": {
+      "headline": "Relaxing stay in Mumbai",
+      "gallery": [],
+      "title": "Entire rental unit in Mumbai, India",
+      "subtitle": "2 guests 2 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b98847 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND030",
+    "hotelName": "Hotel Haven Mumbai",
+    "brand": "BookInn",
+    "category": 3,
+    "starRating": 4.6,
+    "latitude": 26.847365,
+    "longitude": 73.134995,
+    "address": "641 Random Street",
+    "cityName": "Mumbai",
+    "stateCode": "MH",
+    "zipCode": "502702",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/9.jpg",
+    "details": {
+      "headline": "Relaxing stay in Mumbai",
+      "gallery": [],
+      "title": "Entire rental unit in Mumbai, India",
+      "subtitle": "1 guests 1 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b96163 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND031",
+    "hotelName": "Snowcrest Chalet",
+    "brand": "StayBay",
+    "category": 4,
+    "starRating": 4.8,
+    "latitude": 19.053353,
+    "longitude": 81.051628,
+    "address": "774 Random Street",
+    "cityName": "Manali",
+    "stateCode": "HP",
+    "zipCode": "544403",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Manali",
+      "gallery": [],
+      "title": "Entire rental unit in Manali, India",
+      "subtitle": "2 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "3495 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND032",
+    "hotelName": "The Himalayan Haven",
+    "brand": "Tripozo",
+    "category": 5,
+    "starRating": 4.5,
+    "latitude": 23.329021,
+    "longitude": 76.087237,
+    "address": "126 Random Street",
+    "cityName": "Manali",
+    "stateCode": "HP",
+    "zipCode": "446248",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Manali",
+      "gallery": [],
+      "title": "Entire rental unit in Manali, India",
+      "subtitle": "1 guests 1 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "7174 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND033",
+    "hotelName": "Pinewood Peaks Resort",
+    "brand": "TreeNest",
+    "category": 3,
+    "starRating": 4.6,
+    "latitude": 22.544171,
+    "longitude": 82.109162,
+    "address": "130 Random Street",
+    "cityName": "Manali",
+    "stateCode": "HP",
+    "zipCode": "906308",
+    "countryCode": "IN",
+   "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Manali",
+      "gallery": [],
+      "title": "Entire rental unit in Manali, India",
+      "subtitle": "3 guests 2 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "4414 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND034",
+    "hotelName": "Solang Valley Retreat",
+    "brand": "StayBay",
+    "category": 4,
+    "starRating": 4.9,
+    "latitude": 21.711915,
+    "longitude": 87.569192,
+    "address": "848 Random Street",
+    "cityName": "Manali",
+    "stateCode": "HP",
+    "zipCode": "307571",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Manali",
+      "gallery": [],
+      "title": "Entire rental unit in Manali, India",
+      "subtitle": "1 guests 1 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "7380 for 1 night"
+  },
+  {
+    "supplierHotelId": "IND035",
+    "hotelName": "Hotel Retreat Manali",
+    "brand": "Staynest",
+    "category": 3,
+    "starRating": 4.7,
+    "latitude": 27.224062,
+    "longitude": 80.809372,
+    "address": "903 Random Street",
+    "cityName": "Manali",
+    "stateCode": "HP",
+    "zipCode": "527585",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/4.jpg",
+    "details": {
+      "headline": "Relaxing stay in Manali",
+      "gallery": [],
+      "title": "Entire rental unit in Manali, India",
+      "subtitle": "1 guests 1 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b98055 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND036",
+    "hotelName": "Hotel Haven Manali",
+    "brand": "Skyo",
+    "category": 3,
+    "starRating": 4.3,
+    "latitude": 28.585971,
+    "longitude": 82.815537,
+    "address": "67 Random Street",
+    "cityName": "Manali",
+    "stateCode": "HP",
+    "zipCode": "176087",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/5.jpg",
+    "details": {
+      "headline": "Relaxing stay in Manali",
+      "gallery": [],
+      "title": "Entire rental unit in Manali, India",
+      "subtitle": "3 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b97126 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND037",
+    "hotelName": "Hotel Vista Manali",
+    "brand": "StayBay",
+    "category": 3,
+    "starRating": 3.9,
+    "latitude": 18.817101,
+    "longitude": 76.40501,
+    "address": "555 Random Street",
+    "cityName": "Manali",
+    "stateCode": "HP",
+    "zipCode": "365194",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/6.jpg",
+    "details": {
+      "headline": "Relaxing stay in Manali",
+      "gallery": [],
+      "title": "Entire rental unit in Manali, India",
+      "subtitle": "2 guests 1 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b98915 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND038",
+    "hotelName": "Hotel Haven Manali",
+    "brand": "Skyo",
+    "category": 5,
+    "starRating": 4.1,
+    "latitude": 20.418169,
+    "longitude": 75.521919,
+    "address": "293 Random Street",
+    "cityName": "Manali",
+    "stateCode": "HP",
+    "zipCode": "128531",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/7.jpg",
+    "details": {
+      "headline": "Relaxing stay in Manali",
+      "gallery": [],
+      "title": "Entire rental unit in Manali, India",
+      "subtitle": "3 guests 2 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b98491 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND039",
+    "hotelName": "Hotel Nest Manali",
+    "brand": "YatraHomes",
+    "category": 3,
+    "starRating": 3.8,
+    "latitude": 24.636404,
+    "longitude": 77.806954,
+    "address": "386 Random Street",
+    "cityName": "Manali",
+    "stateCode": "HP",
+    "zipCode": "129354",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/8.jpg",
+    "details": {
+      "headline": "Relaxing stay in Manali",
+      "gallery": [],
+      "title": "Entire rental unit in Manali, India",
+      "subtitle": "3 guests 2 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b99798 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND040",
+    "hotelName": "Hotel Haven Manali",
+    "brand": "YatraHomes",
+    "category": 5,
+    "starRating": 3.8,
+    "latitude": 20.19378,
+    "longitude": 76.403571,
+    "address": "416 Random Street",
+    "cityName": "Manali",
+    "stateCode": "HP",
+    "zipCode": "654880",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/9.jpg",
+    "details": {
+      "headline": "Relaxing stay in Manali",
+      "gallery": [],
+      "title": "Entire rental unit in Manali, India",
+      "subtitle": "4 guests 2 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b99777 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND041",
+    "hotelName": "Rajputana Retreat",
+    "brand": "StayBay",
+    "category": 5,
+    "starRating": 4.8,
+    "latitude": 26.613836,
+    "longitude": 84.564242,
+    "address": "239 Random Street",
+    "cityName": "Jaipur",
+    "stateCode": "RJ",
+    "zipCode": "414613",
+    "countryCode": "IN",
+    "image": "",
+    "details": {
+      "headline": "Relaxing stay in Jaipur",
+      "gallery": [],
+      "title": "Entire rental unit in Jaipur, India",
+      "subtitle": "3 guests 2 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "4807 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND042",
+    "hotelName": "Hawa Mahal Residency",
+    "brand": "TreeNest",
+    "category": 5,
+    "starRating": 4.9,
+    "latitude": 21.360779,
+    "longitude": 77.596475,
+    "address": "593 Random Street",
+    "cityName": "Jaipur",
+    "stateCode": "RJ",
+    "zipCode": "283975",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Jaipur",
+      "gallery": [],
+      "title": "Entire rental unit in Jaipur, India",
+      "subtitle": "3 guests 1 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "9569 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND043",
+    "hotelName": "Jaipur Jewel Hotel",
+    "brand": "Staynest",
+    "category": 4,
+    "starRating": 4.8,
+    "latitude": 27.406718,
+    "longitude": 82.175293,
+    "address": "556 Random Street",
+    "cityName": "Jaipur",
+    "stateCode": "RJ",
+    "zipCode": "927513",
+    "countryCode": "IN",
+   "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Jaipur",
+      "gallery": [],
+      "title": "Entire rental unit in Jaipur, India",
+      "subtitle": "4 guests 1 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "8278 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND044",
+    "hotelName": "The Maharaja's Court",
+    "brand": "Staynest",
+    "category": 5,
+    "starRating": 4.6,
+    "latitude": 22.546797,
+    "longitude": 73.691076,
+    "address": "243 Random Street",
+    "cityName": "Jaipur",
+    "stateCode": "RJ",
+    "zipCode": "229996",
+    "countryCode": "IN",
+   "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Jaipur",
+      "gallery": [],
+      "title": "Entire rental unit in Jaipur, India",
+      "subtitle": "2 guests 2 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "5527 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND045",
+    "hotelName": "Hotel Haven Jaipur",
+    "brand": "Staynest",
+    "category": 5,
+    "starRating": 3.9,
+    "latitude": 21.600721,
+    "longitude": 74.069979,
+    "address": "44 Random Street",
+    "cityName": "Jaipur",
+    "stateCode": "RJ",
+    "zipCode": "687677",
+    "countryCode": "IN",
+"image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Jaipur",
+      "gallery": [],
+      "title": "Entire rental unit in Jaipur, India",
+      "subtitle": "3 guests 2 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b93189 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND046",
+    "hotelName": "Hotel Nest Jaipur",
+    "brand": "Tripozo",
+    "category": 3,
+    "starRating": 4.1,
+    "latitude": 22.197315,
+    "longitude": 85.227254,
+    "address": "646 Random Street",
+    "cityName": "Jaipur",
+    "stateCode": "RJ",
+    "zipCode": "619697",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/5.jpg",
+    "details": {
+      "headline": "Relaxing stay in Jaipur",
+      "gallery": [],
+      "title": "Entire rental unit in Jaipur, India",
+      "subtitle": "3 guests 2 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b94124 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND047",
+    "hotelName": "Hotel Haven Jaipur",
+    "brand": "TreeNest",
+    "category": 3,
+    "starRating": 4.0,
+    "latitude": 26.660493,
+    "longitude": 86.524518,
+    "address": "853 Random Street",
+    "cityName": "Jaipur",
+    "stateCode": "RJ",
+    "zipCode": "132299",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/6.jpg",
+    "details": {
+      "headline": "Relaxing stay in Jaipur",
+      "gallery": [],
+      "title": "Entire rental unit in Jaipur, India",
+      "subtitle": "2 guests 2 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b94553 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND048",
+    "hotelName": "Hotel Nest Jaipur",
+    "brand": "YatraHomes",
+    "category": 5,
+    "starRating": 4.9,
+    "latitude": 23.331145,
+    "longitude": 72.4968,
+    "address": "595 Random Street",
+    "cityName": "Jaipur",
+    "stateCode": "RJ",
+    "zipCode": "943494",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/7.jpg",
+    "details": {
+      "headline": "Relaxing stay in Jaipur",
+      "gallery": [],
+      "title": "Entire rental unit in Jaipur, India",
+      "subtitle": "1 guests 1 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b97101 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND049",
+    "hotelName": "Hotel Retreat Jaipur",
+    "brand": "BookInn",
+    "category": 3,
+    "starRating": 4.6,
+    "latitude": 26.695724,
+    "longitude": 87.475712,
+    "address": "971 Random Street",
+    "cityName": "Jaipur",
+    "stateCode": "RJ",
+    "zipCode": "134945",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/8.jpg",
+    "details": {
+      "headline": "Relaxing stay in Jaipur",
+      "gallery": [],
+      "title": "Entire rental unit in Jaipur, India",
+      "subtitle": "3 guests 1 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b93184 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND050",
+    "hotelName": "Hotel Vista Jaipur",
+    "brand": "StayEZ",
+    "category": 5,
+    "starRating": 4.4,
+    "latitude": 28.098347,
+    "longitude": 87.564201,
+    "address": "141 Random Street",
+    "cityName": "Jaipur",
+    "stateCode": "RJ",
+    "zipCode": "640096",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/9.jpg",
+    "details": {
+      "headline": "Relaxing stay in Jaipur",
+      "gallery": [],
+      "title": "Entire rental unit in Jaipur, India",
+      "subtitle": "2 guests 2 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b97821 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND051",
+    "hotelName": "Ganga Bliss Retreat",
+    "brand": "StayBay",
+    "category": 3,
+    "starRating": 4.8,
+    "latitude": 29.390589,
+    "longitude": 79.140012,
+    "address": "33 Random Street",
+    "cityName": "Rishikesh",
+    "stateCode": "UK",
+    "zipCode": "994219",
+    "countryCode": "IN",
+    "image": "",
+    "details": {
+      "headline": "Relaxing stay in Rishikesh",
+      "gallery": [],
+      "title": "Entire rental unit in Rishikesh, India",
+      "subtitle": "3 guests 2 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "7767 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND052",
+    "hotelName": "Himalayan Echo Resort",
+    "brand": "Skyo",
+    "category": 5,
+    "starRating": 4.5,
+    "latitude": 19.214874,
+    "longitude": 79.396727,
+    "address": "568 Random Street",
+    "cityName": "Rishikesh",
+    "stateCode": "UK",
+    "zipCode": "247441",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Rishikesh",
+      "gallery": [],
+      "title": "Entire rental unit in Rishikesh, India",
+      "subtitle": "1 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "9454 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND053",
+    "hotelName": "The Yogic Nest",
+    "brand": "Roomie",
+    "category": 5,
+    "starRating": 4.8,
+    "latitude": 22.648584,
+    "longitude": 79.434277,
+    "address": "783 Random Street",
+    "cityName": "Rishikesh",
+    "stateCode": "UK",
+    "zipCode": "578059",
+    "countryCode": "IN",
+    "image": "",
+    "details": {
+      "headline": "Relaxing stay in Rishikesh",
+      "gallery": [],
+      "title": "Entire rental unit in Rishikesh, India",
+      "subtitle": "4 guests 1 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "8925 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND054",
+    "hotelName": "Triveni Ghat Residency",
+    "brand": "Skyo",
+    "category": 3,
+    "starRating": 4.6,
+    "latitude": 20.306641,
+    "longitude": 73.97682,
+    "address": "577 Random Street",
+    "cityName": "Rishikesh",
+    "stateCode": "UK",
+    "zipCode": "949496",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1166641853711758251/original/e989d39a-6f8f-41c9-ba17-087f5f05a93c.jpeg?im_w=1200",
+    "details": {
+      "headline": "Relaxing stay in Rishikesh",
+      "gallery": [],
+      "title": "Entire rental unit in Rishikesh, India",
+      "subtitle": "4 guests 2 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "8188 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND055",
+    "hotelName": "Hotel Oasis Rishikesh",
+    "brand": "StayBay",
+    "category": 3,
+    "starRating": 4.4,
+    "latitude": 24.780967,
+    "longitude": 76.332714,
+    "address": "905 Random Street",
+    "cityName": "Rishikesh",
+    "stateCode": "UK",
+    "zipCode": "379308",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/4.jpg",
+    "details": {
+      "headline": "Relaxing stay in Rishikesh",
+      "gallery": [],
+      "title": "Entire rental unit in Rishikesh, India",
+      "subtitle": "2 guests 1 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b96398 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND056",
+    "hotelName": "Hotel Haven Rishikesh",
+    "brand": "Tripozo",
+    "category": 3,
+    "starRating": 4.7,
+    "latitude": 25.958724,
+    "longitude": 77.054772,
+    "address": "835 Random Street",
+    "cityName": "Rishikesh",
+    "stateCode": "UK",
+    "zipCode": "788183",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/5.jpg",
+    "details": {
+      "headline": "Relaxing stay in Rishikesh",
+      "gallery": [],
+      "title": "Entire rental unit in Rishikesh, India",
+      "subtitle": "2 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b94215 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND057",
+    "hotelName": "Hotel Nest Rishikesh",
+    "brand": "StayEZ",
+    "category": 3,
+    "starRating": 3.7,
+    "latitude": 25.518453,
+    "longitude": 81.392329,
+    "address": "562 Random Street",
+    "cityName": "Rishikesh",
+    "stateCode": "UK",
+    "zipCode": "141271",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/6.jpg",
+    "details": {
+      "headline": "Relaxing stay in Rishikesh",
+      "gallery": [],
+      "title": "Entire rental unit in Rishikesh, India",
+      "subtitle": "4 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b93308 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND058",
+    "hotelName": "Hotel Nest Rishikesh",
+    "brand": "YatraHomes",
+    "category": 5,
+    "starRating": 3.5,
+    "latitude": 20.030356,
+    "longitude": 81.209456,
+    "address": "442 Random Street",
+    "cityName": "Rishikesh",
+    "stateCode": "UK",
+    "zipCode": "397073",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/7.jpg",
+    "details": {
+      "headline": "Relaxing stay in Rishikesh",
+      "gallery": [],
+      "title": "Entire rental unit in Rishikesh, India",
+      "subtitle": "2 guests 1 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b96224 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND059",
+    "hotelName": "Hotel Nest Rishikesh",
+    "brand": "Tripozo",
+    "category": 5,
+    "starRating": 4.7,
+    "latitude": 29.32643,
+    "longitude": 74.946092,
+    "address": "923 Random Street",
+    "cityName": "Rishikesh",
+    "stateCode": "UK",
+    "zipCode": "378249",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/8.jpg",
+    "details": {
+      "headline": "Relaxing stay in Rishikesh",
+      "gallery": [],
+      "title": "Entire rental unit in Rishikesh, India",
+      "subtitle": "3 guests 2 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b96270 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND060",
+    "hotelName": "Hotel Retreat Rishikesh",
+    "brand": "YatraHomes",
+    "category": 5,
+    "starRating": 3.8,
+    "latitude": 18.897088,
+    "longitude": 76.801211,
+    "address": "106 Random Street",
+    "cityName": "Rishikesh",
+    "stateCode": "UK",
+    "zipCode": "718505",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/9.jpg",
+    "details": {
+      "headline": "Relaxing stay in Rishikesh",
+      "gallery": [],
+      "title": "Entire rental unit in Rishikesh, India",
+      "subtitle": "1 guests 2 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b95828 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND061",
+    "hotelName": "Hotel Haven Kolkata",
+    "brand": "StayEZ",
+    "category": 3,
+    "starRating": 3.8,
+    "latitude": 20.305652,
+    "longitude": 72.557921,
+    "address": "829 Random Street",
+    "cityName": "Kolkata",
+    "stateCode": "WB",
+    "zipCode": "209337",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/0.jpg",
+    "details": {
+      "headline": "Relaxing stay in Kolkata",
+      "gallery": [],
+      "title": "Entire rental unit in Kolkata, India",
+      "subtitle": "1 guests 1 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b99486 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND062",
+    "hotelName": "Hotel Retreat Kolkata",
+    "brand": "Tripozo",
+    "category": 3,
+    "starRating": 4.3,
+    "latitude": 19.177969,
+    "longitude": 76.569003,
+    "address": "674 Random Street",
+    "cityName": "Kolkata",
+    "stateCode": "WB",
+    "zipCode": "854694",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/1.jpg",
+    "details": {
+      "headline": "Relaxing stay in Kolkata",
+      "gallery": [],
+      "title": "Entire rental unit in Kolkata, India",
+      "subtitle": "3 guests 2 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b94600 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND063",
+    "hotelName": "Hotel Retreat Kolkata",
+    "brand": "StayEZ",
+    "category": 3,
+    "starRating": 4.8,
+    "latitude": 22.18554,
+    "longitude": 86.778185,
+    "address": "496 Random Street",
+    "cityName": "Kolkata",
+    "stateCode": "WB",
+    "zipCode": "488492",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/2.jpg",
+    "details": {
+      "headline": "Relaxing stay in Kolkata",
+      "gallery": [],
+      "title": "Entire rental unit in Kolkata, India",
+      "subtitle": "3 guests 2 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b95206 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND064",
+    "hotelName": "Hotel Nest Kolkata",
+    "brand": "Roomie",
+    "category": 4,
+    "starRating": 4.7,
+    "latitude": 20.978542,
+    "longitude": 73.362288,
+    "address": "274 Random Street",
+    "cityName": "Kolkata",
+    "stateCode": "WB",
+    "zipCode": "411881",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/3.jpg",
+    "details": {
+      "headline": "Relaxing stay in Kolkata",
+      "gallery": [],
+      "title": "Entire rental unit in Kolkata, India",
+      "subtitle": "4 guests 2 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b94999 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND065",
+    "hotelName": "Hotel Vista Kolkata",
+    "brand": "Staynest",
+    "category": 4,
+    "starRating": 4.4,
+    "latitude": 29.386927,
+    "longitude": 78.521623,
+    "address": "785 Random Street",
+    "cityName": "Kolkata",
+    "stateCode": "WB",
+    "zipCode": "341441",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/4.jpg",
+    "details": {
+      "headline": "Relaxing stay in Kolkata",
+      "gallery": [],
+      "title": "Entire rental unit in Kolkata, India",
+      "subtitle": "4 guests 2 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b92793 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND066",
+    "hotelName": "Hotel Oasis Kolkata",
+    "brand": "StayBay",
+    "category": 3,
+    "starRating": 4.7,
+    "latitude": 26.731745,
+    "longitude": 72.006947,
+    "address": "375 Random Street",
+    "cityName": "Kolkata",
+    "stateCode": "WB",
+    "zipCode": "598272",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/5.jpg",
+    "details": {
+      "headline": "Relaxing stay in Kolkata",
+      "gallery": [],
+      "title": "Entire rental unit in Kolkata, India",
+      "subtitle": "3 guests 2 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b96693 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND067",
+    "hotelName": "Hotel Retreat Kolkata",
+    "brand": "StayEZ",
+    "category": 3,
+    "starRating": 4.9,
+    "latitude": 28.077195,
+    "longitude": 85.26375,
+    "address": "529 Random Street",
+    "cityName": "Kolkata",
+    "stateCode": "WB",
+    "zipCode": "602111",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/6.jpg",
+    "details": {
+      "headline": "Relaxing stay in Kolkata",
+      "gallery": [],
+      "title": "Entire rental unit in Kolkata, India",
+      "subtitle": "1 guests 2 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b95025 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND068",
+    "hotelName": "Hotel Vista Kolkata",
+    "brand": "Meevee",
+    "category": 3,
+    "starRating": 4.3,
+    "latitude": 23.309991,
+    "longitude": 73.089196,
+    "address": "173 Random Street",
+    "cityName": "Kolkata",
+    "stateCode": "WB",
+    "zipCode": "940411",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/7.jpg",
+    "details": {
+      "headline": "Relaxing stay in Kolkata",
+      "gallery": [],
+      "title": "Entire rental unit in Kolkata, India",
+      "subtitle": "1 guests 2 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b98665 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND069",
+    "hotelName": "Hotel Retreat Kolkata",
+    "brand": "Roomie",
+    "category": 3,
+    "starRating": 4.0,
+    "latitude": 21.738024,
+    "longitude": 74.454132,
+    "address": "520 Random Street",
+    "cityName": "Kolkata",
+    "stateCode": "WB",
+    "zipCode": "994005",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/8.jpg",
+    "details": {
+      "headline": "Relaxing stay in Kolkata",
+      "gallery": [],
+      "title": "Entire rental unit in Kolkata, India",
+      "subtitle": "2 guests 1 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b93011 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND070",
+    "hotelName": "Hotel Retreat Kolkata",
+    "brand": "Staynest",
+    "category": 5,
+    "starRating": 5.0,
+    "latitude": 24.810745,
+    "longitude": 73.014042,
+    "address": "685 Random Street",
+    "cityName": "Kolkata",
+    "stateCode": "WB",
+    "zipCode": "782703",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/9.jpg",
+    "details": {
+      "headline": "Relaxing stay in Kolkata",
+      "gallery": [],
+      "title": "Entire rental unit in Kolkata, India",
+      "subtitle": "2 guests 2 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b93454 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND071",
+    "hotelName": "Hotel Nest Hyderabad",
+    "brand": "Skyo",
+    "category": 4,
+    "starRating": 4.0,
+    "latitude": 23.008343,
+    "longitude": 83.001439,
+    "address": "336 Random Street",
+    "cityName": "Hyderabad",
+    "stateCode": "TS",
+    "zipCode": "590360",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/0.jpg",
+    "details": {
+      "headline": "Relaxing stay in Hyderabad",
+      "gallery": [],
+      "title": "Entire rental unit in Hyderabad, India",
+      "subtitle": "3 guests 2 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b94406 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND072",
+    "hotelName": "Hotel Nest Hyderabad",
+    "brand": "Roomie",
+    "category": 3,
+    "starRating": 4.8,
+    "latitude": 21.484746,
+    "longitude": 82.384468,
+    "address": "781 Random Street",
+    "cityName": "Hyderabad",
+    "stateCode": "TS",
+    "zipCode": "524359",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/1.jpg",
+    "details": {
+      "headline": "Relaxing stay in Hyderabad",
+      "gallery": [],
+      "title": "Entire rental unit in Hyderabad, India",
+      "subtitle": "4 guests 2 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b98221 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND073",
+    "hotelName": "Hotel Vista Hyderabad",
+    "brand": "TreeNest",
+    "category": 5,
+    "starRating": 4.1,
+    "latitude": 19.163877,
+    "longitude": 86.797142,
+    "address": "213 Random Street",
+    "cityName": "Hyderabad",
+    "stateCode": "TS",
+    "zipCode": "764088",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/2.jpg",
+    "details": {
+      "headline": "Relaxing stay in Hyderabad",
+      "gallery": [],
+      "title": "Entire rental unit in Hyderabad, India",
+      "subtitle": "3 guests 2 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b98013 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND074",
+    "hotelName": "Hotel Haven Hyderabad",
+    "brand": "StayBay",
+    "category": 5,
+    "starRating": 4.9,
+    "latitude": 18.097591,
+    "longitude": 73.548534,
+    "address": "721 Random Street",
+    "cityName": "Hyderabad",
+    "stateCode": "TS",
+    "zipCode": "781257",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/3.jpg",
+    "details": {
+      "headline": "Relaxing stay in Hyderabad",
+      "gallery": [],
+      "title": "Entire rental unit in Hyderabad, India",
+      "subtitle": "3 guests 2 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b99602 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND075",
+    "hotelName": "Hotel Vista Hyderabad",
+    "brand": "Skyo",
+    "category": 4,
+    "starRating": 3.6,
+    "latitude": 20.094433,
+    "longitude": 80.851745,
+    "address": "266 Random Street",
+    "cityName": "Hyderabad",
+    "stateCode": "TS",
+    "zipCode": "537398",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/4.jpg",
+    "details": {
+      "headline": "Relaxing stay in Hyderabad",
+      "gallery": [],
+      "title": "Entire rental unit in Hyderabad, India",
+      "subtitle": "1 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b97490 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND076",
+    "hotelName": "Hotel Oasis Hyderabad",
+    "brand": "StayEZ",
+    "category": 4,
+    "starRating": 4.9,
+    "latitude": 22.922215,
+    "longitude": 81.128115,
+    "address": "789 Random Street",
+    "cityName": "Hyderabad",
+    "stateCode": "TS",
+    "zipCode": "248964",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/5.jpg",
+    "details": {
+      "headline": "Relaxing stay in Hyderabad",
+      "gallery": [],
+      "title": "Entire rental unit in Hyderabad, India",
+      "subtitle": "3 guests 2 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b95742 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND077",
+    "hotelName": "Hotel Haven Hyderabad",
+    "brand": "Skyo",
+    "category": 5,
+    "starRating": 3.8,
+    "latitude": 18.109047,
+    "longitude": 85.004738,
+    "address": "538 Random Street",
+    "cityName": "Hyderabad",
+    "stateCode": "TS",
+    "zipCode": "454847",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/6.jpg",
+    "details": {
+      "headline": "Relaxing stay in Hyderabad",
+      "gallery": [],
+      "title": "Entire rental unit in Hyderabad, India",
+      "subtitle": "4 guests 2 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b96089 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND078",
+    "hotelName": "Hotel Nest Hyderabad",
+    "brand": "StayEZ",
+    "category": 4,
+    "starRating": 4.0,
+    "latitude": 29.365025,
+    "longitude": 78.634414,
+    "address": "778 Random Street",
+    "cityName": "Hyderabad",
+    "stateCode": "TS",
+    "zipCode": "446122",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/7.jpg",
+    "details": {
+      "headline": "Relaxing stay in Hyderabad",
+      "gallery": [],
+      "title": "Entire rental unit in Hyderabad, India",
+      "subtitle": "2 guests 2 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b99629 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND079",
+    "hotelName": "Hotel Oasis Hyderabad",
+    "brand": "Tripozo",
+    "category": 3,
+    "starRating": 4.3,
+    "latitude": 21.865576,
+    "longitude": 78.081623,
+    "address": "925 Random Street",
+    "cityName": "Hyderabad",
+    "stateCode": "TS",
+    "zipCode": "847709",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/8.jpg",
+    "details": {
+      "headline": "Relaxing stay in Hyderabad",
+      "gallery": [],
+      "title": "Entire rental unit in Hyderabad, India",
+      "subtitle": "2 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b97165 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND080",
+    "hotelName": "Hotel Retreat Hyderabad",
+    "brand": "Roomie",
+    "category": 5,
+    "starRating": 4.0,
+    "latitude": 21.554921,
+    "longitude": 75.374888,
+    "address": "712 Random Street",
+    "cityName": "Hyderabad",
+    "stateCode": "TS",
+    "zipCode": "218549",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/9.jpg",
+    "details": {
+      "headline": "Relaxing stay in Hyderabad",
+      "gallery": [],
+      "title": "Entire rental unit in Hyderabad, India",
+      "subtitle": "1 guests 2 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b98500 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND081",
+    "hotelName": "Hotel Haven Ahmedabad",
+    "brand": "Meevee",
+    "category": 4,
+    "starRating": 3.5,
+    "latitude": 28.724661,
+    "longitude": 82.601985,
+    "address": "549 Random Street",
+    "cityName": "Ahmedabad",
+    "stateCode": "GJ",
+    "zipCode": "163927",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/0.jpg",
+    "details": {
+      "headline": "Relaxing stay in Ahmedabad",
+      "gallery": [],
+      "title": "Entire rental unit in Ahmedabad, India",
+      "subtitle": "3 guests 2 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b96144 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND082",
+    "hotelName": "Hotel Haven Ahmedabad",
+    "brand": "Skyo",
+    "category": 3,
+    "starRating": 4.5,
+    "latitude": 21.171034,
+    "longitude": 82.603226,
+    "address": "790 Random Street",
+    "cityName": "Ahmedabad",
+    "stateCode": "GJ",
+    "zipCode": "323473",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/1.jpg",
+    "details": {
+      "headline": "Relaxing stay in Ahmedabad",
+      "gallery": [],
+      "title": "Entire rental unit in Ahmedabad, India",
+      "subtitle": "4 guests 2 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b92682 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND083",
+    "hotelName": "Hotel Retreat Ahmedabad",
+    "brand": "Staynest",
+    "category": 3,
+    "starRating": 4.4,
+    "latitude": 22.652267,
+    "longitude": 80.274246,
+    "address": "956 Random Street",
+    "cityName": "Ahmedabad",
+    "stateCode": "GJ",
+    "zipCode": "310691",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/2.jpg",
+    "details": {
+      "headline": "Relaxing stay in Ahmedabad",
+      "gallery": [],
+      "title": "Entire rental unit in Ahmedabad, India",
+      "subtitle": "4 guests 2 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b98465 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND084",
+    "hotelName": "Hotel Retreat Ahmedabad",
+    "brand": "Skyo",
+    "category": 3,
+    "starRating": 4.5,
+    "latitude": 18.155582,
+    "longitude": 85.361858,
+    "address": "93 Random Street",
+    "cityName": "Ahmedabad",
+    "stateCode": "GJ",
+    "zipCode": "865774",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/3.jpg",
+    "details": {
+      "headline": "Relaxing stay in Ahmedabad",
+      "gallery": [],
+      "title": "Entire rental unit in Ahmedabad, India",
+      "subtitle": "4 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b99685 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND085",
+    "hotelName": "Hotel Oasis Ahmedabad",
+    "brand": "Tripozo",
+    "category": 4,
+    "starRating": 4.9,
+    "latitude": 26.418819,
+    "longitude": 75.986617,
+    "address": "300 Random Street",
+    "cityName": "Ahmedabad",
+    "stateCode": "GJ",
+    "zipCode": "578123",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/4.jpg",
+    "details": {
+      "headline": "Relaxing stay in Ahmedabad",
+      "gallery": [],
+      "title": "Entire rental unit in Ahmedabad, India",
+      "subtitle": "3 guests 2 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b99441 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND086",
+    "hotelName": "Hotel Haven Ahmedabad",
+    "brand": "Staynest",
+    "category": 4,
+    "starRating": 5.0,
+    "latitude": 26.991129,
+    "longitude": 86.208707,
+    "address": "123 Random Street",
+    "cityName": "Ahmedabad",
+    "stateCode": "GJ",
+    "zipCode": "176213",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/5.jpg",
+    "details": {
+      "headline": "Relaxing stay in Ahmedabad",
+      "gallery": [],
+      "title": "Entire rental unit in Ahmedabad, India",
+      "subtitle": "2 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b99334 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND087",
+    "hotelName": "Hotel Retreat Ahmedabad",
+    "brand": "Staynest",
+    "category": 5,
+    "starRating": 4.3,
+    "latitude": 23.050551,
+    "longitude": 82.921891,
+    "address": "333 Random Street",
+    "cityName": "Ahmedabad",
+    "stateCode": "GJ",
+    "zipCode": "702665",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/6.jpg",
+    "details": {
+      "headline": "Relaxing stay in Ahmedabad",
+      "gallery": [],
+      "title": "Entire rental unit in Ahmedabad, India",
+      "subtitle": "1 guests 2 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b93130 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND088",
+    "hotelName": "Hotel Oasis Ahmedabad",
+    "brand": "BookInn",
+    "category": 3,
+    "starRating": 4.2,
+    "latitude": 23.595743,
+    "longitude": 86.138202,
+    "address": "53 Random Street",
+    "cityName": "Ahmedabad",
+    "stateCode": "GJ",
+    "zipCode": "159675",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/7.jpg",
+    "details": {
+      "headline": "Relaxing stay in Ahmedabad",
+      "gallery": [],
+      "title": "Entire rental unit in Ahmedabad, India",
+      "subtitle": "4 guests 2 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b96956 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND089",
+    "hotelName": "Hotel Haven Ahmedabad",
+    "brand": "BookInn",
+    "category": 3,
+    "starRating": 4.6,
+    "latitude": 21.208553,
+    "longitude": 74.439898,
+    "address": "24 Random Street",
+    "cityName": "Ahmedabad",
+    "stateCode": "GJ",
+    "zipCode": "864355",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/8.jpg",
+    "details": {
+      "headline": "Relaxing stay in Ahmedabad",
+      "gallery": [],
+      "title": "Entire rental unit in Ahmedabad, India",
+      "subtitle": "4 guests 1 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b94329 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND090",
+    "hotelName": "Hotel Oasis Ahmedabad",
+    "brand": "StayEZ",
+    "category": 3,
+    "starRating": 5.0,
+    "latitude": 24.769986,
+    "longitude": 79.713622,
+    "address": "591 Random Street",
+    "cityName": "Ahmedabad",
+    "stateCode": "GJ",
+    "zipCode": "974953",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/9.jpg",
+    "details": {
+      "headline": "Relaxing stay in Ahmedabad",
+      "gallery": [],
+      "title": "Entire rental unit in Ahmedabad, India",
+      "subtitle": "3 guests 2 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b97445 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND091",
+    "hotelName": "Hotel Haven Ujjain",
+    "brand": "Staynest",
+    "category": 4,
+    "starRating": 3.7,
+    "latitude": 21.146937,
+    "longitude": 79.781217,
+    "address": "843 Random Street",
+    "cityName": "Ujjain",
+    "stateCode": "MP",
+    "zipCode": "368101",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/0.jpg",
+    "details": {
+      "headline": "Relaxing stay in Ujjain",
+      "gallery": [],
+      "title": "Entire rental unit in Ujjain, India",
+      "subtitle": "1 guests 2 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b95745 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND092",
+    "hotelName": "Hotel Vista Ujjain",
+    "brand": "StayBay",
+    "category": 4,
+    "starRating": 4.8,
+    "latitude": 28.71976,
+    "longitude": 76.905871,
+    "address": "798 Random Street",
+    "cityName": "Ujjain",
+    "stateCode": "MP",
+    "zipCode": "482906",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/1.jpg",
+    "details": {
+      "headline": "Relaxing stay in Ujjain",
+      "gallery": [],
+      "title": "Entire rental unit in Ujjain, India",
+      "subtitle": "2 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b96889 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND093",
+    "hotelName": "Hotel Nest Ujjain",
+    "brand": "StayEZ",
+    "category": 5,
+    "starRating": 4.8,
+    "latitude": 22.259055,
+    "longitude": 87.195539,
+    "address": "408 Random Street",
+    "cityName": "Ujjain",
+    "stateCode": "MP",
+    "zipCode": "434402",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/2.jpg",
+    "details": {
+      "headline": "Relaxing stay in Ujjain",
+      "gallery": [],
+      "title": "Entire rental unit in Ujjain, India",
+      "subtitle": "1 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b92674 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND094",
+    "hotelName": "Hotel Haven Ujjain",
+    "brand": "BookInn",
+    "category": 4,
+    "starRating": 4.5,
+    "latitude": 20.303929,
+    "longitude": 84.979123,
+    "address": "42 Random Street",
+    "cityName": "Ujjain",
+    "stateCode": "MP",
+    "zipCode": "729421",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/3.jpg",
+    "details": {
+      "headline": "Relaxing stay in Ujjain",
+      "gallery": [],
+      "title": "Entire rental unit in Ujjain, India",
+      "subtitle": "1 guests 1 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b99146 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND095",
+    "hotelName": "Hotel Nest Ujjain",
+    "brand": "StayEZ",
+    "category": 4,
+    "starRating": 4.9,
+    "latitude": 28.683778,
+    "longitude": 84.965075,
+    "address": "177 Random Street",
+    "cityName": "Ujjain",
+    "stateCode": "MP",
+    "zipCode": "441962",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/4.jpg",
+    "details": {
+      "headline": "Relaxing stay in Ujjain",
+      "gallery": [],
+      "title": "Entire rental unit in Ujjain, India",
+      "subtitle": "3 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b98550 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND096",
+    "hotelName": "Hotel Oasis Ujjain",
+    "brand": "Roomie",
+    "category": 4,
+    "starRating": 4.4,
+    "latitude": 27.60245,
+    "longitude": 86.775609,
+    "address": "906 Random Street",
+    "cityName": "Ujjain",
+    "stateCode": "MP",
+    "zipCode": "160899",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/5.jpg",
+    "details": {
+      "headline": "Relaxing stay in Ujjain",
+      "gallery": [],
+      "title": "Entire rental unit in Ujjain, India",
+      "subtitle": "3 guests 1 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b99449 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND097",
+    "hotelName": "Hotel Haven Ujjain",
+    "brand": "YatraHomes",
+    "category": 5,
+    "starRating": 3.8,
+    "latitude": 24.935706,
+    "longitude": 74.247904,
+    "address": "641 Random Street",
+    "cityName": "Ujjain",
+    "stateCode": "MP",
+    "zipCode": "532146",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/6.jpg",
+    "details": {
+      "headline": "Relaxing stay in Ujjain",
+      "gallery": [],
+      "title": "Entire rental unit in Ujjain, India",
+      "subtitle": "1 guests 2 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b96156 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND098",
+    "hotelName": "Hotel Haven Ujjain",
+    "brand": "YatraHomes",
+    "category": 3,
+    "starRating": 4.7,
+    "latitude": 20.133709,
+    "longitude": 85.806948,
+    "address": "812 Random Street",
+    "cityName": "Ujjain",
+    "stateCode": "MP",
+    "zipCode": "887428",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/7.jpg",
+    "details": {
+      "headline": "Relaxing stay in Ujjain",
+      "gallery": [],
+      "title": "Entire rental unit in Ujjain, India",
+      "subtitle": "2 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b95043 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND099",
+    "hotelName": "Hotel Retreat Ujjain",
+    "brand": "TreeNest",
+    "category": 3,
+    "starRating": 4.3,
+    "latitude": 25.249138,
+    "longitude": 86.069603,
+    "address": "252 Random Street",
+    "cityName": "Ujjain",
+    "stateCode": "MP",
+    "zipCode": "816458",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/8.jpg",
+    "details": {
+      "headline": "Relaxing stay in Ujjain",
+      "gallery": [],
+      "title": "Entire rental unit in Ujjain, India",
+      "subtitle": "1 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b95785 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND100",
+    "hotelName": "Hotel Nest Ujjain",
+    "brand": "Skyo",
+    "category": 5,
+    "starRating": 4.9,
+    "latitude": 24.856202,
+    "longitude": 74.950781,
+    "address": "751 Random Street",
+    "cityName": "Ujjain",
+    "stateCode": "MP",
+    "zipCode": "351623",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/9.jpg",
+    "details": {
+      "headline": "Relaxing stay in Ujjain",
+      "gallery": [],
+      "title": "Entire rental unit in Ujjain, India",
+      "subtitle": "4 guests 2 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b96348 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND101",
+    "hotelName": "Hotel Retreat Chandigarh",
+    "brand": "Meevee",
+    "category": 3,
+    "starRating": 4.2,
+    "latitude": 22.109579,
+    "longitude": 78.668303,
+    "address": "488 Random Street",
+    "cityName": "Chandigarh",
+    "stateCode": "CH",
+    "zipCode": "948175",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/0.jpg",
+    "details": {
+      "headline": "Relaxing stay in Chandigarh",
+      "gallery": [],
+      "title": "Entire rental unit in Chandigarh, India",
+      "subtitle": "4 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b98264 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND102",
+    "hotelName": "Hotel Haven Chandigarh",
+    "brand": "Meevee",
+    "category": 5,
+    "starRating": 5.0,
+    "latitude": 24.914087,
+    "longitude": 75.910835,
+    "address": "474 Random Street",
+    "cityName": "Chandigarh",
+    "stateCode": "CH",
+    "zipCode": "229776",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/1.jpg",
+    "details": {
+      "headline": "Relaxing stay in Chandigarh",
+      "gallery": [],
+      "title": "Entire rental unit in Chandigarh, India",
+      "subtitle": "3 guests 1 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b96525 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND103",
+    "hotelName": "Hotel Nest Chandigarh",
+    "brand": "Meevee",
+    "category": 4,
+    "starRating": 4.9,
+    "latitude": 20.592065,
+    "longitude": 82.866144,
+    "address": "202 Random Street",
+    "cityName": "Chandigarh",
+    "stateCode": "CH",
+    "zipCode": "542752",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/2.jpg",
+    "details": {
+      "headline": "Relaxing stay in Chandigarh",
+      "gallery": [],
+      "title": "Entire rental unit in Chandigarh, India",
+      "subtitle": "4 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b94778 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND104",
+    "hotelName": "Hotel Retreat Chandigarh",
+    "brand": "TreeNest",
+    "category": 4,
+    "starRating": 3.7,
+    "latitude": 26.230773,
+    "longitude": 82.042577,
+    "address": "883 Random Street",
+    "cityName": "Chandigarh",
+    "stateCode": "CH",
+    "zipCode": "562514",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/3.jpg",
+    "details": {
+      "headline": "Relaxing stay in Chandigarh",
+      "gallery": [],
+      "title": "Entire rental unit in Chandigarh, India",
+      "subtitle": "4 guests 1 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b92575 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND105",
+    "hotelName": "Hotel Nest Chandigarh",
+    "brand": "Staynest",
+    "category": 5,
+    "starRating": 4.3,
+    "latitude": 27.937046,
+    "longitude": 76.562009,
+    "address": "476 Random Street",
+    "cityName": "Chandigarh",
+    "stateCode": "CH",
+    "zipCode": "270911",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/4.jpg",
+    "details": {
+      "headline": "Relaxing stay in Chandigarh",
+      "gallery": [],
+      "title": "Entire rental unit in Chandigarh, India",
+      "subtitle": "4 guests 2 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b95453 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND106",
+    "hotelName": "Hotel Oasis Chandigarh",
+    "brand": "StayBay",
+    "category": 5,
+    "starRating": 3.7,
+    "latitude": 25.114866,
+    "longitude": 81.581029,
+    "address": "838 Random Street",
+    "cityName": "Chandigarh",
+    "stateCode": "CH",
+    "zipCode": "403416",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/5.jpg",
+    "details": {
+      "headline": "Relaxing stay in Chandigarh",
+      "gallery": [],
+      "title": "Entire rental unit in Chandigarh, India",
+      "subtitle": "2 guests 2 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b95258 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND107",
+    "hotelName": "Hotel Retreat Chandigarh",
+    "brand": "Roomie",
+    "category": 5,
+    "starRating": 4.1,
+    "latitude": 22.417665,
+    "longitude": 72.224337,
+    "address": "403 Random Street",
+    "cityName": "Chandigarh",
+    "stateCode": "CH",
+    "zipCode": "733723",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/6.jpg",
+    "details": {
+      "headline": "Relaxing stay in Chandigarh",
+      "gallery": [],
+      "title": "Entire rental unit in Chandigarh, India",
+      "subtitle": "1 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b98932 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND108",
+    "hotelName": "Hotel Nest Chandigarh",
+    "brand": "StayBay",
+    "category": 5,
+    "starRating": 4.2,
+    "latitude": 23.624976,
+    "longitude": 81.353438,
+    "address": "159 Random Street",
+    "cityName": "Chandigarh",
+    "stateCode": "CH",
+    "zipCode": "622043",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/7.jpg",
+    "details": {
+      "headline": "Relaxing stay in Chandigarh",
+      "gallery": [],
+      "title": "Entire rental unit in Chandigarh, India",
+      "subtitle": "4 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b98016 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND109",
+    "hotelName": "Hotel Retreat Chandigarh",
+    "brand": "Staynest",
+    "category": 5,
+    "starRating": 4.5,
+    "latitude": 20.492274,
+    "longitude": 83.890361,
+    "address": "873 Random Street",
+    "cityName": "Chandigarh",
+    "stateCode": "CH",
+    "zipCode": "374784",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/8.jpg",
+    "details": {
+      "headline": "Relaxing stay in Chandigarh",
+      "gallery": [],
+      "title": "Entire rental unit in Chandigarh, India",
+      "subtitle": "2 guests 2 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b95341 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND110",
+    "hotelName": "Hotel Retreat Chandigarh",
+    "brand": "Meevee",
+    "category": 4,
+    "starRating": 3.9,
+    "latitude": 26.005007,
+    "longitude": 73.933751,
+    "address": "939 Random Street",
+    "cityName": "Chandigarh",
+    "stateCode": "CH",
+    "zipCode": "124461",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/9.jpg",
+    "details": {
+      "headline": "Relaxing stay in Chandigarh",
+      "gallery": [],
+      "title": "Entire rental unit in Chandigarh, India",
+      "subtitle": "1 guests 2 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b98281 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND111",
+    "hotelName": "Hotel Haven Delhi",
+    "brand": "BookInn",
+    "category": 3,
+    "starRating": 4.6,
+    "latitude": 26.46321,
+    "longitude": 84.159547,
+    "address": "710 Random Street",
+    "cityName": "Delhi",
+    "stateCode": "DL",
+    "zipCode": "466819",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/0.jpg",
+    "details": {
+      "headline": "Relaxing stay in Delhi",
+      "gallery": [],
+      "title": "Entire rental unit in Delhi, India",
+      "subtitle": "3 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b93183 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND112",
+    "hotelName": "Hotel Oasis Delhi",
+    "brand": "Meevee",
+    "category": 5,
+    "starRating": 3.9,
+    "latitude": 21.834404,
+    "longitude": 84.218567,
+    "address": "382 Random Street",
+    "cityName": "Delhi",
+    "stateCode": "DL",
+    "zipCode": "208838",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/1.jpg",
+    "details": {
+      "headline": "Relaxing stay in Delhi",
+      "gallery": [],
+      "title": "Entire rental unit in Delhi, India",
+      "subtitle": "3 guests 1 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b99137 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND113",
+    "hotelName": "Hotel Retreat Delhi",
+    "brand": "StayEZ",
+    "category": 3,
+    "starRating": 3.9,
+    "latitude": 26.493266,
+    "longitude": 75.70847,
+    "address": "71 Random Street",
+    "cityName": "Delhi",
+    "stateCode": "DL",
+    "zipCode": "107727",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/2.jpg",
+    "details": {
+      "headline": "Relaxing stay in Delhi",
+      "gallery": [],
+      "title": "Entire rental unit in Delhi, India",
+      "subtitle": "1 guests 2 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b96368 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND114",
+    "hotelName": "Hotel Haven Delhi",
+    "brand": "Staynest",
+    "category": 3,
+    "starRating": 4.8,
+    "latitude": 29.141348,
+    "longitude": 75.972586,
+    "address": "893 Random Street",
+    "cityName": "Delhi",
+    "stateCode": "DL",
+    "zipCode": "935627",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/3.jpg",
+    "details": {
+      "headline": "Relaxing stay in Delhi",
+      "gallery": [],
+      "title": "Entire rental unit in Delhi, India",
+      "subtitle": "1 guests 2 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b93400 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND115",
+    "hotelName": "Hotel Retreat Delhi",
+    "brand": "Tripozo",
+    "category": 3,
+    "starRating": 4.6,
+    "latitude": 26.614059,
+    "longitude": 76.832368,
+    "address": "271 Random Street",
+    "cityName": "Delhi",
+    "stateCode": "DL",
+    "zipCode": "976138",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/4.jpg",
+    "details": {
+      "headline": "Relaxing stay in Delhi",
+      "gallery": [],
+      "title": "Entire rental unit in Delhi, India",
+      "subtitle": "3 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b94963 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND116",
+    "hotelName": "Hotel Vista Delhi",
+    "brand": "Staynest",
+    "category": 3,
+    "starRating": 3.9,
+    "latitude": 26.427623,
+    "longitude": 83.840243,
+    "address": "415 Random Street",
+    "cityName": "Delhi",
+    "stateCode": "DL",
+    "zipCode": "606866",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/5.jpg",
+    "details": {
+      "headline": "Relaxing stay in Delhi",
+      "gallery": [],
+      "title": "Entire rental unit in Delhi, India",
+      "subtitle": "2 guests 2 bedroom 1 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b97859 for 3 nights"
+  },
+  {
+    "supplierHotelId": "IND117",
+    "hotelName": "Hotel Haven Delhi",
+    "brand": "Staynest",
+    "category": 4,
+    "starRating": 4.5,
+    "latitude": 25.444737,
+    "longitude": 77.839567,
+    "address": "282 Random Street",
+    "cityName": "Delhi",
+    "stateCode": "DL",
+    "zipCode": "294802",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/6.jpg",
+    "details": {
+      "headline": "Relaxing stay in Delhi",
+      "gallery": [],
+      "title": "Entire rental unit in Delhi, India",
+      "subtitle": "3 guests 1 bedroom 1 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b94104 for 1 nights"
+  },
+  {
+    "supplierHotelId": "IND118",
+    "hotelName": "Hotel Nest Delhi",
+    "brand": "Skyo",
+    "category": 3,
+    "starRating": 4.0,
+    "latitude": 21.448671,
+    "longitude": 82.966206,
+    "address": "837 Random Street",
+    "cityName": "Delhi",
+    "stateCode": "DL",
+    "zipCode": "275551",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/7.jpg",
+    "details": {
+      "headline": "Relaxing stay in Delhi",
+      "gallery": [],
+      "title": "Entire rental unit in Delhi, India",
+      "subtitle": "4 guests 1 bedroom 2 bed 1 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b98023 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND119",
+    "hotelName": "Hotel Retreat Delhi",
+    "brand": "Tripozo",
+    "category": 5,
+    "starRating": 4.4,
+    "latitude": 22.879647,
+    "longitude": 77.459444,
+    "address": "64 Random Street",
+    "cityName": "Delhi",
+    "stateCode": "DL",
+    "zipCode": "829496",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/8.jpg",
+    "details": {
+      "headline": "Relaxing stay in Delhi",
+      "gallery": [],
+      "title": "Entire rental unit in Delhi, India",
+      "subtitle": "4 guests 1 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b95458 for 2 nights"
+  },
+  {
+    "supplierHotelId": "IND120",
+    "hotelName": "Hotel Vista Delhi",
+    "brand": "YatraHomes",
+    "category": 5,
+    "starRating": 4.2,
+    "latitude": 25.803331,
+    "longitude": 85.03406,
+    "address": "900 Random Street",
+    "cityName": "Delhi",
+    "stateCode": "DL",
+    "zipCode": "124145",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/9.jpg",
+    "details": {
+      "headline": "Relaxing stay in Delhi",
+      "gallery": [],
+      "title": "Entire rental unit in Delhi, India",
+      "subtitle": "3 guests 1 bedroom 2 bed 2 bathroom"
+    },
+    "offer": [
+      {
+        "title": "kitchen",
+        "icon": "icon.png"
+      },
+      {
+        "title": "wifi",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pool",
+        "icon": "icon.png"
+      },
+      {
+        "title": "pets allowed",
+        "icon": "icon.png"
+      },
+      {
+        "title": "washing machine",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Tv",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Air conditioning",
+        "icon": "icon.png"
+      },
+      {
+        "title": "Free Parking",
+        "icon": "icon.png"
+      }
+    ],
+    "price": "\u20b96843 for 3 nights"
+  }
+]

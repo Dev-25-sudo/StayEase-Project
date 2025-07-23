@@ -1,0 +1,52 @@
+[
+  {
+    "id": 5,
+    "name": "Item Five"
+  },
+  {
+    "id": 9,
+    "name": "Item Nine"
+  },
+  {
+    "supplierHotelId": "IND002",
+    "hotelName": "Hotel Oasis ",
+    "brand": "Tripozo",
+    "category": 4,
+    "starRating": 4.7,
+    "latitude": 26.958133,
+    "longitude": 79.225366,
+    "address": "462 Random Street",
+    "cityName": "Pune",
+    "stateCode": "MH",
+    "zipCode": "471790",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/1.jpg",
+    "details": {
+      "headline": "Relaxing stay in Pune",
+      "gallery": [],
+      "title": "Entire rental unit in Pune, India",
+      "subtitle": "1 guests 2 bedroom 2 bed 2 bathroom"
+    }
+  },
+  {
+    "supplierHotelId": "IND003",
+    "hotelName": "Hotel Amsterdam ",
+    "brand": "Tripozo",
+    "category": 4,
+    "starRating": 4.7,
+    "latitude": 26.958133,
+    "longitude": 79.225366,
+    "address": "462 Random Street",
+    "cityName": "Pune",
+    "stateCode": "MH",
+    "zipCode": "471790",
+    "countryCode": "IN",
+    "image": "https://a0.muscache.com/im/pictures/1.jpg",
+    "details": {
+      "headline": "Relaxing stay in Pune",
+      "gallery": [],
+      "title": "Entire rental unit in Pune, India",
+      "subtitle": "1 guests 2 bedroom 2 bed 2 bathroom"
+    }
+  }
+]
