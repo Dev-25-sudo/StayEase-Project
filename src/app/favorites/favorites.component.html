@@ -1,0 +1,43 @@
+<nav class="navbar navbar-expand-lg bg-white border-bottom px-4 py-2">
+  <div class="container-fluid">
+    <a class="navbar-brand fw-bold fs-4 text-primary" href="#">
+      <span class="text-danger">stay</span><span class="text-info">Ease</span>
+    </a>
+
+    <div class="d-flex align-items-center gap-3 ms-auto">
+      <a routerLink="/favorites" class="text-decoration-none text-dark">
+        <i class="bi bi-heart"></i> Favorites
+      </a>
+
+      <button class="btn border d-lg-none" type="button">
+        <i class="bi bi-list"></i> Menu
+      </button>
+    </div>
+  </div>
+</nav>
+
+<div class="container py-5">
+  <h2 class="fw-bold mb-4"><i class="bi bi-heart-fill text-danger me-2"></i>Your Favorite Stays</h2>
+
+  <div *ngIf="favorites.length === 0" class="text-muted text-center">
+    <p>You haven't added any favorites yet.</p>
+  </div>
+
+  <div class="row g-4" *ngIf="favorites.length > 0">
+    <div class="col-md-4" *ngFor="let hotel of favorites">
+      <div class="card shadow-sm h-100 border-0">
+        <a [routerLink]="['/property', hotel.supplierHotelId]">
+          <img [src]="hotel.image || fallbackImage" class="card-img-top" alt="{{ hotel.hotelName }}" style="height: 180px; object-fit: cover;">
+        </a>
+        <div class="card-body">
+          <h5 class="card-title">{{ hotel.hotelName }}</h5>
+          <p class="card-text text-muted mb-1">₹{{ hotel.price }}</p>
+          <p class="card-text small">★ {{ hotel.starRating || 4.5 }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+

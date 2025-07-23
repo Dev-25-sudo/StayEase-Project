@@ -1,0 +1,158 @@
+<nav class="navbar navbar-expand-lg bg-white border-bottom px-4 py-2">
+  <div class="container-fluid">
+    <a class="navbar-brand fw-bold fs-4 text-primary" href="#">
+      <span class="text-danger">stay</span><span class="text-info">Ease</span>
+    </a>
+    <div class="d-flex align-items-center gap-3 ms-auto">
+      <a routerLink="/favorites" class="text-decoration-none text-dark">
+        <i class="bi bi-heart"></i> Favorites
+      </a>
+
+      <ng-container *ngIf="isLoggedIn; else loginLink">
+        <div class="dropdown">
+          <a class="text-decoration-none text-dark dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+            (click)="$event.preventDefault()">
+            <i class="bi bi-person-circle me-1"></i> Account
+          </a>
+          <ul class="dropdown-menu">
+            <li class="dropdown-item disabled">
+              <small class="text-muted">Logged in as:</small><br />
+              <strong>{{ userEmail }}</strong>
+            </li>
+            <li>
+              <hr class="dropdown-divider">
+            </li>
+            <li><a class="dropdown-item" routerLink="/profile">Profile</a></li>
+            <li><a class="dropdown-item" (click)="authService.logout()">Logout</a></li>
+          </ul>
+        </div>
+
+      </ng-container>
+
+    <ng-template #loginLink>
+      <a class="btn btn-outline-primary" routerLink="/">Login</a>
+    </ng-template>
+    </div>
+  </div>
+</nav>
+
+<div class="container py-4">
+  <div class="text-center mb-4">
+    <h2 class="fw-bold">Discover stays for every style and budget</h2>
+    <p class="text-muted">Book your next adventure with great offers and comfort</p>
+  </div>
+
+ 
+<div class="container my-4 py-4 bg-white shadow-sm rounded">
+  <div class="row g-3 align-items-end justify-content-center">
+    <div class="col-md-3">
+      <label class="form-label fw-semibold">Destination</label>
+      <input type="text" class="form-control" placeholder="Search city..." [(ngModel)]="searchQuery" />
+    </div>
+    <div class="col-md-2">
+      <label class="form-label fw-semibold">Check-in</label>
+      <input type="date" class="form-control" [(ngModel)]="checkInDate" [min]="today" />
+    </div>
+    <div class="col-md-2">
+      <label class="form-label fw-semibold">Check-out</label>
+      <input type="date" class="form-control" [(ngModel)]="checkOutDate" />
+    </div>
+    <div class="col-md-2">
+      <label class="form-label fw-semibold">Guests</label>
+      <input type="number" class="form-control" [(ngModel)]="guestCount" min="1" />
+    </div>
+    <div class="col-md-2">
+      <button class="btn btn-danger w-100" (click)="navigateToSearch()">
+        <i class="bi bi-search me-1"></i> Search
+      </button>
+    </div>
+  </div>
+</div>
+
+  <div class="container hotel-section" *ngFor="let city of objectKeys(groupedHotelsByCity)">
+    <h3 class="fw-bold my-4"><i class="bi bi-geo-alt-fill"></i> {{ getCityHeading(city) }}</h3>
+
+    <div class="row flex-nowrap overflow-auto pt-2">
+      <div class="col-10 col-sm-6 col-md-4 col-lg-3" *ngFor="let hotel of groupedHotelsByCity[city]" style="min-width: 250px">
+        <div class="card border-0 shadow-sm position-relative">
+
+         
+          <div class="position-absolute top-0 start-0 m-2 bg-light px-2 py-1 rounded-pill fw-semibold text-muted"
+               style="font-size: 0.75rem;">
+            Guest favourite
+          </div>
+
+          <div class="position-absolute top-0 end-0 m-2">
+            <i
+              class="bi"
+              [ngClass]="{
+                'bi-heart-fill text-danger': isFavorite(hotel),
+                'bi-heart text-white': !isFavorite(hotel)
+              }"
+              (click)="toggleFavorite(hotel)"
+              style="cursor: pointer; font-size: 1.2rem;"
+            ></i>
+          </div>
+
+          <a [routerLink]="['/property', hotel.supplierHotelId]" class="text-decoration-none text-dark">
+            <img [src]="hotel.image || fallbackImage" class="card-img-top" alt="{{ hotel.hotelName }}" style="height: 180px; object-fit: cover;"/>
+          </a>
+
+          <div class="card-body px-2">
+            <h6 class="card-title m-0 fw-semibold">
+              {{ hotel.hotelName }}
+            </h6>
+            <p class="card-text text-muted small mb-1">
+              ₹{{ hotel.price || 5000 }}
+              <span class="ms-2">★ {{ hotel.starRating || 4.9 }}</span>
+            </p>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<footer class="bg-light text-dark pt-4 mt-5 border-top">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 mb-3">
+        <h5 class="fw-bold text-danger">Stay<span class="text-info">Ease</span></h5>
+        <p class="text-muted">Your trusted companion for booking homes, hotels, and more — across India's top destinations.</p>
+      </div>
+      <div class="col-md-2 mb-3">
+        <h6 class="fw-semibold">Quick Links</h6>
+        <ul class="list-unstyled">
+          <li><a  class="text-muted text-decoration-none" routerLink="/">Login</a></li>
+          <li><a  class="text-muted text-decoration-none" routerLink="/signup">Signup</a></li>
+          <li><a  class="text-muted text-decoration-none" routerLink="/search" >Search</a></li>
+        </ul>
+      </div>
+      <div class="col-md-2 mb-3">
+        <h6 class="fw-semibold">Support</h6>
+        <ul class="list-unstyled">
+          <li><a href="#" class="text-muted text-decoration-none">Contact</a></li>
+          <li><a href="#" class="text-muted text-decoration-none">FAQ</a></li>
+          <li><a href="#" class="text-muted text-decoration-none">Terms</a></li>
+          <li><a href="#" class="text-muted text-decoration-none">Privacy</a></li>
+        </ul>
+      </div>
+      <div class="col-md-4 mb-3">
+        <h6 class="fw-semibold">Follow Us</h6>
+        <div class="d-flex gap-3">
+          <a href="#" class="text-dark"><i class="bi bi-facebook fs-5"></i></a>
+          <a href="#" class="text-dark"><i class="bi bi-instagram fs-5"></i></a>
+          <a href="#" class="text-dark"><i class="bi bi-twitter fs-5"></i></a>
+          <a href="#" class="text-dark"><i class="bi bi-youtube fs-5"></i></a>
+        </div>
+      </div>
+    </div>
+    <div class="text-center py-3 mt-3 border-top text-muted small">
+      &copy; 2025 StayEase. All rights reserved.
+    </div>
+  </div>
+</footer>
+
+

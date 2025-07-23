@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>StayEase Property Details</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg bg-white border-bottom px-4 py-2">
+  <div class="container-fluid">
+    <a class="navbar-brand fw-bold fs-5 text-primary" href="#">
+      <span class="text-danger">stay</span><span class="text-info">Ease</span>
+    </a>
+    <div class="d-flex align-items-center gap-3 ms-auto">
+      <a href="#" class="text-decoration-none text-dark" routerLink="/favorites">
+        <i class="bi bi-heart"></i> Favorites
+      </a>
+     
+      <button class="btn border d-lg-none" type="button">
+        <i class="bi bi-list"></i> Menu
+      </button>
+    </div>
+  </div>
+</nav>
+<div class="container py-4">
+  <div class="text-center mb-4">
+    <h2 class="fw-bold">Discover stays for every style and budget</h2>
+    <p class="text-muted">Book your next adventure with great offers and comfort</p>
+  </div>
+
+   <div *ngIf="hotel" class="py-5">
+  <h4 class="fw-bold mb-2 display-6">{{ hotel.hotelName }}</h4>
+  <p class="text-muted fs-6 mb-4">
+    A comfortable and thoughtfully designed space equipped with all the essentials for a relaxing stay.
+  </p>
+
+  <img
+    [src]="hotel.image"
+    class="img-fluid rounded shadow w-100 mb-5"
+    style="max-height: 420px; object-fit: cover;"
+    alt="{{ hotel.hotelName }}"
+  />
+
+  <div class="row g-5 align-items-start">
+    
+    <div class="col-lg-8">
+      <ul class="list-unstyled fs-5 mb-5">
+        <li><strong>Brand:</strong> {{ hotel.brand || 'N/A' }}</li>
+        <li><strong>Category:</strong> {{ hotel.category || 'N/A' }} Star</li>
+        <li><strong>Star Rating:</strong> ★ {{ hotel.starRating || 'N/A' }}</li>
+        <li>
+          <strong>Address:</strong> {{ hotel.address }}, {{ hotel.cityName }},
+          {{ hotel.stateCode }} - {{ hotel.zipCode }}
+        </li>
+      </ul>
+
+      <h4 class="fw-bold mb-4">✨ What this place offers</h4>
+      <div class="row row-cols-2 row-cols-md-3 gy-3">
+        <div class="d-flex align-items-center gap-2">
+          <img src="assets/icons/icon.png" alt="icon" class="amenities-icon" />
+          <span class="amenity-text fs-5">kitchen</span>
+        </div>
+        <div class="d-flex align-items-center gap-2">
+          <img src="assets/icons/icon.png" alt="icon" class="amenities-icon" />
+          <span class="amenity-text fs-5">wifi</span>
+        </div>
+        <div class="d-flex align-items-center gap-2">
+          <img src="assets/icons/icon.png" alt="icon" class="amenities-icon" />
+          <span class="amenity-text fs-5">pool</span>
+        </div>
+        <div class="d-flex align-items-center gap-2">
+          <img src="assets/icons/icon.png" alt="icon" class="amenities-icon" />
+          <span class="amenity-text fs-5">pets allowed</span>
+        </div>
+        <div class="d-flex align-items-center gap-2">
+          <img src="assets/icons/icon.png" alt="icon" class="amenities-icon" />
+          <span class="amenity-text fs-5">washing machine</span>
+        </div>
+        <div class="d-flex align-items-center gap-2">
+          <img src="assets/icons/icon.png" alt="icon" class="amenities-icon" />
+          <span class="amenity-text fs-5">Tv</span>
+        </div>
+        <div class="d-flex align-items-center gap-2">
+          <img src="assets/icons/icon.png" alt="icon" class="amenities-icon" />
+          <span class="amenity-text fs-5">Air conditioning</span>
+        </div>
+        <div class="d-flex align-items-center gap-2">
+          <img src="assets/icons/icon.png" alt="icon" class="amenities-icon" />
+          <span class="amenity-text fs-5">Free Parking</span>
+        </div>
+      </div>
+    </div>
+
+    
+    <div class="col-lg-4">
+      <div class="alert alert-light shadow-sm rounded-pill px-4 py-2 mb-4 fw-semibold">
+        <i class="bi bi-tag-fill text-danger me-2"></i> Rare find! This place is usually booked
+      </div>
+
+      <div class="shadow-sm p-4 bg-white rounded-4 border">
+        <h4 class="fw-bold mb-3">
+          ₹<span class="text-underline">{{ hotel.price }}</span>
+        </h4>
+
+        <div class="border rounded mb-3">
+          <div class="d-flex">
+            <div class="p-3 flex-fill border-end">
+              <label class="text-uppercase small fw-bold mb-1">Check-in</label>
+              <input
+                type="date"
+                class="form-control border-0 p-0"
+                [(ngModel)]="checkInDate"
+              />
+            </div>
+            <div class="p-3 flex-fill">
+              <label class="text-uppercase small fw-bold mb-1">Checkout</label>
+              <input
+                type="date"
+                class="form-control border-0 p-0"
+                [(ngModel)]="checkOutDate"
+              />
+            </div>
+          </div>
+          <div class="border-top p-3">
+            <label class="text-uppercase small fw-bold mb-1">Guests</label>
+            <select class="form-select border-0 p-0" [(ngModel)]="guestCount">
+              <option *ngFor="let g of [1, 2, 3, 4, 5]">
+                {{ g }} guest{{ g > 1 ? 's' : '' }}
+              </option>
+            </select>
+          </div>
+        </div>
+
+        <button
+          class="btn btn-gradient w-100 mt-2 py-2 fw-semibold text-white"
+          (click)="goToPayment()"
+        >
+          Reserve
+        </button>
+        <p class="text-center text-muted small mt-2 mb-0">
+          You won't be charged yet
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<footer class="bg-light text-dark pt-4 mt-5 border-top">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 mb-3">
+        <h5 class="fw-bold text-danger">Stay<span class="text-info">Ease</span></h5>
+        <p class="text-muted">Your trusted companion for booking homes, hotels, and more — across India's top destinations.</p>
+      </div>
+      <div class="col-md-2 mb-3">
+        <h6 class="fw-semibold">Quick Links</h6>
+        <ul class="list-unstyled">
+          <li><a  class="text-muted text-decoration-none" routerLink="/dashboard">Home</a></li>
+          <li><a  class="text-muted text-decoration-none" routerLink="/">Login</a></li>
+          <li><a  class="text-muted text-decoration-none" routerLink="/signup">Signup</a></li>
+          <li><a  class="text-muted text-decoration-none" routerLink="/search" >Search</a></li>
+        </ul>
+      </div>
+      <div class="col-md-2 mb-3">
+        <h6 class="fw-semibold">Support</h6>
+        <ul class="list-unstyled">
+          <li><a href="#" class="text-muted text-decoration-none">Contact</a></li>
+          <li><a href="#" class="text-muted text-decoration-none">FAQ</a></li>
+          <li><a href="#" class="text-muted text-decoration-none">Terms</a></li>
+          <li><a href="#" class="text-muted text-decoration-none">Privacy</a></li>
+        </ul>
+      </div>
+      <div class="col-md-4 mb-3">
+        <h6 class="fw-semibold">Follow Us</h6>
+        <div class="d-flex gap-3">
+          <a href="#" class="text-dark"><i class="bi bi-facebook fs-5"></i></a>
+          <a href="#" class="text-dark"><i class="bi bi-instagram fs-5"></i></a>
+          <a href="#" class="text-dark"><i class="bi bi-twitter fs-5"></i></a>
+          <a href="#" class="text-dark"><i class="bi bi-youtube fs-5"></i></a>
+        </div>
+      </div>
+    </div>
+    <div class="text-center py-3 mt-3 border-top text-muted small">
+      &copy; 2025 StayEase. All rights reserved.
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

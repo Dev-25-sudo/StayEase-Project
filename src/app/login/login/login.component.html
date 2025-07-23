@@ -1,0 +1,66 @@
+<section class="bg-light py-5">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-7 col-lg-5">
+        <div class="card shadow rounded-4 border-0">
+          <div class="card-body px-4 py-5">
+            <div class="text-center mb-4">
+              <a routerLink="/" class="text-decoration-none">
+                <h2 class="fw-bold fs-3 text-primary">
+                  <span class="text-danger">stay</span><span class="text-info">Ease</span>
+                </h2>
+              </a>
+              <p class="text-muted">Log in to your account</p>
+            </div>
+
+            <form [formGroup]="loginform" (ngSubmit)="formSubmit()">
+              <div class="mb-3">
+                <label for="email" class="form-label fw-semibold">Email address</label>
+                <input
+                  type="email"
+                  class="form-control form-control-lg rounded-3"
+                  id="email"
+                  placeholder="name@example.com"
+                  formControlName="email"
+                />
+              </div>
+
+              <div class="mb-3">
+                <label for="password" class="form-label fw-semibold">Password</label>
+                <input
+                  type="password"
+                  class="form-control form-control-lg rounded-3"
+                  id="password"
+                  placeholder="Password"
+                  formControlName="password"
+                />
+              </div>
+
+              <div class="d-flex justify-content-between align-items-center mb-3">
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" id="rememberMe" />
+                  <label class="form-check-label text-muted" for="rememberMe"> Keep me logged in </label>
+                </div>
+                <a routerLink="/forget" class="link-primary text-decoration-none">Forgot password?</a>
+              </div>
+
+              <button type="submit" class="btn btn-danger w-100 py-2 fw-semibold rounded-pill">
+                Log in
+              </button>
+
+              <div *ngIf="credentialerror" class="alert alert-danger mt-3" role="alert">
+                {{ credentialfail }}
+              </div>
+
+              <p class="text-center text-muted mt-4 mb-0">
+                Don't have an account?
+                <a routerLink="/signup" class="text-decoration-none text-primary fw-semibold">Sign up</a>
+              </p>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
